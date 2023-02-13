@@ -16,5 +16,5 @@ classifiers = [
 "Homepage" = "https://github.com/hridayK/selenium-geocoder"
 "Bug Tracker" = "https://github.com/hridayK/selenium-geocoder/issues"
 [build-system]
-requires = ["hatchling","selenium"]
+requires = ["hatchling","selenium","webdriver-manager"]
 build-backend = "hatchling.build"
